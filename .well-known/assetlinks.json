@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.darilaros33_cell.twa",
+      "sha256_cert_fingerprints": [
+        "02:93:26:AB:20:84:7B:60:54:AB:05:0E:18:8F:9F:7F:AF:39:AF:7C:AE:EC:43:20:3E:6E:1D:3F:47:97:F4:CE"
+      ]
+    }
+  }
+]
